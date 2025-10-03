@@ -1,0 +1,11 @@
+# STSci suggests Python 3.12 for installation
+# via conda: conda create -n jwst_v1.17 python=3.12
+# or Python virtual environment (venv), but might be
+# harder than conda install, depending on where you're
+# setting this up
+jwst==1.17.1
+astropy
+numpy
+tqdm
+scipy
+matplotlib
