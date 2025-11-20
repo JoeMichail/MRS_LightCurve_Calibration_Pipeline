@@ -19,7 +19,7 @@ MRS_LightCurve_Calibration_Pipeline/
 ```
 If this code is used in your work, you are morally obligated to cite the following papers:
 1. von Fellenberg et al. (2025a), [DOI:10.3847/2041-8213/ada3d2](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..20V/abstract)
-2. Michail et al. (2025, submitted), DOI/ADS link forthcoming
+2. Michail et al. (2025, submitted), [DOI:10.48550/arXiv.2511.14836](https://doi.org/10.48550/arXiv.2511.14836)
 3. Bushouse et al. (2025): [https://zenodo.org/records/17101851](https://ui.adsabs.harvard.edu/abs/2023zndo...6984365B/abstract)
 
 This work is supported by an NSF Astronomy and Astrophysics Postdoctoral Fellowship grant provided to JMM under award AST-2401752.
